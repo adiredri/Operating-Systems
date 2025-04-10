@@ -19,7 +19,7 @@ This utility demonstrates:
 - Return codes to communicate results
 - Terminal-based testing using `$?`
 
-> Included - Screenshot of terminal usage (`PartA_terminal.png`)
+Included - Screenshot of terminal usage (`PartA_terminal.png`)
 
 ---
 
@@ -35,7 +35,7 @@ A simulation of inter-process communication using the file system and Unix signa
 
 This assignment focuses on synchronization, signal handling, and safe process communication.
 
-> Included - PDFs explaining the solution and sample outputs
+Included - PDFs explaining the solution and sample outputs
 
 ---
 
@@ -54,7 +54,7 @@ A full C implementation of a scheduling simulator for multiple classic strategie
 - Calculates and prints average turnaround time per strategy
 - Clean modular structure for each algorithm
 
-> Included - Assignment PDF with detailed rules and example input/output
+Included - Assignment PDF with detailed rules and example input/output
 
 ---
 
